@@ -11,7 +11,7 @@ font-weight: normal;
 
 }
 
-a { color:maroon; 
+a { color:rgb(250, 246, 246); 
 text-decoration:none ;
 } 
 a:hover {
@@ -49,7 +49,7 @@ you can write it all in the same code*/}
     margin: 90px;
 }
 .box4{
-    padding: 15px;
+    padding: 10px;
     border-color: black;
     background-color: black;
     left: 10px;
