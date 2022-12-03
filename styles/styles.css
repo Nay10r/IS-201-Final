@@ -1,0 +1,68 @@
+body { 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #000000;
+    background-color: rgb(128, 125, 120);
+}
+li {
+font-size: 14px;
+font-style: italic ;
+font-weight: normal;
+
+}
+
+a { color:maroon; 
+text-decoration:none ;
+} 
+a:hover {
+    text-decoration: underline;
+   /*font-weight: bold;
+    font-size: 18px;*/
+}
+a:visited {
+    color: rgb(0, 0, 0);
+}
+.resumeListHeading {
+    font-weight: bold;
+    font-style: normal;
+}
+.underline { text-decoration: underline ;}
+
+.bold {font-weight: bold;}
+.box1 { 
+    border-width: 3px;
+    border-style: solid;
+    border-color: #D4F7EC);
+
+/*border: 1px solid red; 
+you can write it all in the same code*/} 
+
+.box2 {
+    padding: 5px;
+}
+
+.box3{
+    /*bottom:10px;*/
+    left:10px;
+    right:10px;
+    top: 10px;
+    margin: 90px;
+}
+.box4{
+    padding: 15px;
+    border-color: black;
+    background-color: black;
+    left: 10px;
+    right: 10px;
+}
+.imagecenter{
+    align-items: center;
+}
+
+.justify {text-align:justify ;}
+
+.homebg{
+    background-color:#c3c3c3 ;
+
+}
+
